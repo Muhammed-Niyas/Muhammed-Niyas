@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammed Niyas</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Frontend+Developer;UI/UX+Designer;Always+Learning...&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;MERN+Stack+Developer;Frontend+Developer;UI/UX+Designer;Always+Learning...&center=true&width=500&height=50">
 </p>
 
 ---
 
 ### 🚀 About Me
-- 💻 MERN Stack Developer (MongoDB, Express, React, Node.js)
+- 💻 Backend Developer | MERN Stack Developer (MongoDB, Express, React, Node.js)
 - 🎯 Building real-world projects  
 - 🌱 Learning AI & advanced web technologies  
 - 📍 Thrissur, Kerala  
